@@ -1,0 +1,8 @@
+{
+  "name": "usana",
+  "app_id": "2c5e1f71",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
